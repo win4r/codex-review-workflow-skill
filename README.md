@@ -1,5 +1,3 @@
-# [🚀观看我的哔哩哔哩视频](https://space.bilibili.com/3493277319825652)
-
 # Codex Review Workflow Skill
 
 An automated code review workflow skill for [Claude Code](https://claude.com/claude-code) that integrates with OpenAI Codex CLI. This skill implements an iterative fix-and-review cycle that automatically reviews code, identifies issues, applies fixes, and re-reviews until the code passes validation or reaches the iteration limit.
